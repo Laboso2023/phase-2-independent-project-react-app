@@ -5,6 +5,7 @@ import Search from "./Search";
 
 const Home = () => {
 	return (
+		<>
 		<div id="home">
 			<div className="header">
 				<h1 className="h1">COVID-19 TRACKER</h1>
@@ -17,6 +18,7 @@ const Home = () => {
 			{/* <h2>H2 Header</h2> */}
 			{/* <Product /> */}
 		</div>
+		</>
 	);
 };
 
